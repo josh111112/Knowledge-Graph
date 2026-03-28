@@ -1,0 +1,9 @@
+.env
+askgemini.txt
+example.html
+instructions.md
+Modelfile
+__pycache__
+text-to-cypher-Gemma-3-4B-Instruct-2025.04.0
+venv
+.DS_Store
